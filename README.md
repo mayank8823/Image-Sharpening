@@ -1,1 +1,1 @@
-# Image-Sharpening
+# Image Sharpening Techniques
