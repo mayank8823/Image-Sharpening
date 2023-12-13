@@ -26,4 +26,10 @@ This repository explores various image sharpening techniques implemented in Pyth
 #### Usage:
 - Explore the different image sharpening techniques by running the provided Python scripts.
 
-## Acknowledgments
+## Contributors
+- Aryan Sharma (202151031)
+- Harsh Sharma (202151064)
+- Manasi Pandey (202151087)
+- Mayank Kumar (202151088)
+
+#### Thanks for Viewing Our Repository.
